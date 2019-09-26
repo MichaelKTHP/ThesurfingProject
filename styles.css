@@ -1,0 +1,30 @@
+.jumbotron {
+  /* Choisis la hauteur ici */
+  height: 500px;
+
+  /* Tu lui donnes une image de background */
+  background-image: url("surf.jpg");
+
+  /* Centre l'image et la met bien sur tous les écrans */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+  color:white;}
+
+
+  .bulleprix {
+  	display: flex;
+  	flex-direction: column;
+  	justify-content: flex-end;
+  }
+
+.iconefa {
+    text-align:center;
+}
+.témoignage {
+	display: flex;
+	align-items: : center;
+	justify-content: center;
+}
